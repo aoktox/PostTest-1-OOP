@@ -12,7 +12,7 @@ package Soal1_bil_Sempurna;
 public class Main_method {
 
     public static void main(String[] args) {
-        int awal = 28;
+        int awal = 128;
         System.out.println("Apakah "+awal+" merupakan bilangan sempurna ? "+cekSempurna.sempurna(awal));
     }  
 }
